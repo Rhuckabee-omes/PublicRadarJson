@@ -1,4 +1,5 @@
-    {
+{"radar" :   [
+	{
         "name": "AAA Solutions",
         "ring": "Hold",
         "quadrant": "Tools",
@@ -257,3 +258,4 @@
         "isNew": false,
         "description": null
     }
+]}
