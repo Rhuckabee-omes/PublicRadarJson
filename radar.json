@@ -196,7 +196,7 @@
         "description": "RACF (Resource Access Control Facility) is an access control system for IBM mainframe computers. It provides security and authorization services to protect resources and data within mainframe environments."
     },
     {
-        "name": "Relativity\u00a0iCONECT\u00a0via\u00a0Managed\u00a0Service\u00a0Provider",
+        "name": "Relativity",
         "ring": "Assess",
         "quadrant": "Tools",
         "isNew": "FALSE",
