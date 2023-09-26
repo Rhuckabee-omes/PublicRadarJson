@@ -1,8 +1,8 @@
 [
     {
         "name": "AAA Solutions",
-        "ring": "Hold",
-        "quadrant": "Techniques",
+        "ring": "Trail",
+        "quadrant": "Tools",
         "isNew": "FALSE",
         "description": "Just a test solution. Test"
     },
@@ -46,7 +46,7 @@
         "ring": "Trail",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Azure Virtual Desktop",
@@ -102,21 +102,21 @@
         "ring": "Adopt",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "IdentoGO iTouch",
         "ring": "Trail",
         "quadrant": "Tools",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Intune",
         "ring": "Assess",
         "quadrant": "Tools",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Kerberos",
@@ -137,21 +137,21 @@
         "ring": "Assess",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "O365 DPL",
         "ring": "Assess",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "OAuth2",
         "ring": "Assess",
         "quadrant": "Languages & Frameworks",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "OneTrust",
@@ -165,7 +165,7 @@
         "ring": "Trail",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Palo Alto Firewall",
@@ -179,14 +179,14 @@
         "ring": "Hold",
         "quadrant": "Tools",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Platform Microsoft Endpoint Manager Patch",
         "ring": "Trail",
         "quadrant": "Languages & Frameworks",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "RACF",
@@ -196,32 +196,39 @@
         "description": "RACF (Resource Access Control Facility) is an access control system for IBM mainframe computers. It provides security and authorization services to protect resources and data within mainframe environments."
     },
     {
+        "name": "Relativity\u00a0iCONECT\u00a0via\u00a0Managed\u00a0Service\u00a0Provider",
+        "ring": "Assess",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
         "name": "SAML 2",
         "ring": "Assess",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "SIEM Plateform Splunk ES",
         "ring": "Hold",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Splunk provisioning",
         "ring": "Adopt",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "SSO Azure AD",
         "ring": "Trail",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Tenable",
@@ -235,7 +242,7 @@
         "ring": "Hold",
         "quadrant": "Techniques",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     },
     {
         "name": "Test solution",
@@ -249,6 +256,6 @@
         "ring": "Hold",
         "quadrant": "Tools",
         "isNew": "FALSE",
-        "description": null
+        "description": ""
     }
 ]
