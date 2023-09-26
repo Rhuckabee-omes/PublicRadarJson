@@ -1,261 +1,261 @@
-{"radar" :   [
-	{
+[
+    {
         "name": "AAA Solutions",
         "ring": "Hold",
-        "quadrant": "Tools",
-        "isNew": false,
-        "description": "Just a test solution. TEstst"
+        "quadrant": "Techniques",
+        "isNew": "FALSE",
+        "description": "Just a test solution. Test"
     },
     {
         "name": "Access Data FTK",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Access Data FTK (Forensic Toolkit) is a digital forensics software used for analyzing and extracting data from various sources, such as computers, mobile devices, and network storage. It helps investigators collect and preserve evidence for legal and investigative purposes."
     },
     {
         "name": "ACF2",
         "ring": "Trail",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "ACF2 (Access Control Facility) is an access control and security management system for IBM mainframe computers. It helps protect mainframe resources and data from unauthorized access."
     },
     {
         "name": "Active Directory",
         "ring": "Trail",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "AD"
     },
     {
         "name": "Anomali",
         "ring": "Assess",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Anomali is a threat intelligence platform that helps organizations identify, analyze, and respond to security threats. It collects and analyzes threat data from various sources to provide actionable intelligence and automate threat response."
     },
     {
         "name": "Another test",
         "ring": "Hold",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Description"
     },
     {
         "name": "Azure provisioning",
         "ring": "Trail",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Azure Virtual Desktop",
         "ring": "Hold",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Azure Virtual Desktop is a cloud-based virtual desktop infrastructure (VDI) service that allows users to access virtualized desktops and applications from any device. It provides secure and scalable desktop virtualization solutions."
     },
     {
         "name": "Bitlocker",
         "ring": "Trail",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "BitLocker is a full disk encryption feature in Windows that helps protect data on Windows devices. It encrypts the entire hard drive to prevent unauthorized access in case of theft or loss."
     },
     {
         "name": "BitSight",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "BitSight is a cybersecurity ratings platform that assesses and monitors the security performance of organizations and their third-party vendors. It provides insights and ratings based on factors such as security practices, vulnerabilities, and data breaches."
     },
     {
         "name": "CastleBranch",
         "ring": "Hold",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "CastleBranch is a background screening and compliance management platform used primarily in the healthcare and education sectors to manage employee and student screening processes."
     },
     {
         "name": "CrowdStrike",
         "ring": "Hold",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "CrowdStrike is a cloud-native endpoint protection platform that uses artificial intelligence and behavioral analytics to detect and respond to advanced cyber threats. It provides real-time visibility and threat intelligence to protect endpoints from attacks."
     },
     {
         "name": "Cybersecurity",
         "ring": "Hold",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Cybersecurity"
     },
     {
         "name": "Delinea PAM",
         "ring": "Trail",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Delinea PAM (Privileged Access Management) is a comprehensive solution that helps organizations secure and manage privileged accounts and access rights. It provides capabilities for privileged account discovery, credential management, and session monitoring."
     },
     {
         "name": "Delinea provisioning",
         "ring": "Adopt",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "IdentoGO iTouch",
         "ring": "Trail",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Intune",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Kerberos",
         "ring": "Assess",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Kerberos is a network authentication protocol used to verify the identity of users and provide secure communication over a network. It is commonly used in Windows and Unix environments."
     },
     {
         "name": "KnowBe4",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "KnowBe4 is a security awareness training and simulated phishing platform. It helps organizations educate their employees about cybersecurity threats, vulnerabilities, and best practices through interactive training modules and simulated phishing attacks."
     },
     {
         "name": "Mimecase",
         "ring": "Assess",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "O365 DPL",
         "ring": "Assess",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "OAuth2",
         "ring": "Assess",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "OneTrust",
         "ring": "Hold",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "OneTrust is a comprehensive privacy management platform that helps organizations comply with data protection and privacy regulations. It provides tools for data inventory and mapping, consent management, privacy impact assessments, and more."
     },
     {
         "name": "OPENID Connect2",
         "ring": "Trail",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Palo Alto Firewall",
         "ring": "Hold",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Palo Alto Firewall is a network security appliance that provides advanced firewall protection, intrusion prevention, and threat intelligence. It helps organizations secure their network infrastructure and prevent unauthorized access."
     },
     {
         "name": "Peoplesoft provisioning",
         "ring": "Hold",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Platform Microsoft Endpoint Manager Patch",
         "ring": "Trail",
         "quadrant": "Languages & Frameworks",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "RACF",
         "ring": "Hold",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "RACF (Resource Access Control Facility) is an access control system for IBM mainframe computers. It provides security and authorization services to protect resources and data within mainframe environments."
     },
     {
         "name": "Relativity\u00a0iCONECT\u00a0via\u00a0Managed\u00a0Service\u00a0Provider",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "SAML 2",
         "ring": "Assess",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "SIEM Plateform Splunk ES",
         "ring": "Hold",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Splunk provisioning",
         "ring": "Adopt",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "SSO Azure AD",
         "ring": "Trail",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Tenable",
         "ring": "Assess",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Tenable is a cybersecurity company that provides vulnerability management and threat detection solutions. Its products help organizations identify and remediate vulnerabilities, and detect and respond to security threats."
     },
     {
         "name": "Test",
         "ring": "Hold",
         "quadrant": "Techniques",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     },
     {
         "name": "Test solution",
         "ring": "Trail",
         "quadrant": "Platforms",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": "Updating description......"
     },
     {
         "name": "Zscaler ",
         "ring": "Hold",
         "quadrant": "Tools",
-        "isNew": false,
+        "isNew": "FALSE",
         "description": null
     }
-]}
+]
